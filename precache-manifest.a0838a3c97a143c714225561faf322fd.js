@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "564b444deff7d13f43cc3631c5f435bc",
+    "revision": "6252a702b343d2dcb5f4718bc46c28c5",
     "url": "/meomeo/index.html"
   },
   {
-    "revision": "953a7671eecb9fe4aed6",
-    "url": "/meomeo/static/css/main.169ba532.chunk.css"
+    "revision": "0107d79266e6690dd3d6",
+    "url": "/meomeo/static/css/main.73220da8.chunk.css"
   },
   {
     "revision": "927ec959fcd429c28b77",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/meomeo/static/js/2.23a4a744.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "953a7671eecb9fe4aed6",
-    "url": "/meomeo/static/js/main.0eebdcd3.chunk.js"
+    "revision": "0107d79266e6690dd3d6",
+    "url": "/meomeo/static/js/main.9b7e3b2f.chunk.js"
   },
   {
     "revision": "cba1bf0936d7a31472f8",
