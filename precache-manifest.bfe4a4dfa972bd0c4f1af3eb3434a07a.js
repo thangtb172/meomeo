@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb74d9c78ff2637a771d1f3aac1c2bfe",
+    "revision": "d4a9bda0a475457124822296f3b59e3a",
     "url": "/meomeo/index.html"
   },
   {
